@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Build / dependency folders for future web versions
+node_modules/
+dist/
+build/
+.next/
+.output/
+
+# Local generated artifacts
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip

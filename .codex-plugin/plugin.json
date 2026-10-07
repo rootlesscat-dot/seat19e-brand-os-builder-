@@ -1,0 +1,25 @@
+{
+  "interface": {
+    "displayName": "Brand Playbook Builder",
+    "shortDescription": "\ube0c\ub79c\ub4dc \uc804\ub7b5\uc744 \uc2e4\ud589 \uac00\ub2a5\ud55c Toolkit Playbook\uc73c\ub85c",
+    "longDescription": "SEAT19E\uc758 \uc804\ub7b5 \uc9c8\ubb38\uc744 \ud55c \ubc88\uc5d0 \ud558\ub098\uc529 \uc9c4\ud589\ud574 \ube0c\ub79c\ub4dc \uc804\ub7b5, \ubb34\ub4dc\ubcf4\ub4dc, \uc544\uc774\ub374\ud2f0\ud2f0 \ubcf4\ub4dc\ub97c \ub9cc\ub4e4\uace0, \uc694\uccad \uc2dc Creative Concept, Strategic Direction, Asset System, Pairing Guide, Rollout/Timeline, Output Inventory\uae4c\uc9c0 \ud3ec\ud568\ud55c \uc2e4\ud589\ud615 Toolkit Playbook\uacfc PDF\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4. \uc81c\ud488/F&B, \uc11c\ube44\uc2a4, \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ub4f1 \uc0b0\uc5c5\uad70\uc5d0 \ub9de\ucdb0 \uc790\uc0b0 \uce74\ud14c\uace0\ub9ac\ub97c \uc790\ub3d9 \uc870\uc815\ud558\uba70, \uc81c\uc548\uacfc \uac80\uc99d\ub41c \uc815\ubcf4\ub97c \uba85\ud655\ud788 \uad6c\ubd84\ud569\ub2c8\ub2e4.",
+    "developerName": "SEAT19E",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "\ub0b4 \ube0c\ub79c\ub4dc\uc758 Brand OS\ub97c \ub9cc\ub4e4\uace0 \uc2f6\uc5b4\uc694. \uccab \uc9c8\ubb38\ubd80\ud130 \ud558\ub098\uc529 \uc9c4\ud589\ud574\uc8fc\uc138\uc694.",
+      "\uc644\uc131\ub41c Brand Playbook\uc744 \uc2e4\ud589 \uac00\ub2a5\ud55c Toolkit Playbook \uad6c\uc870\ub85c \ud655\uc7a5\ud574\uc8fc\uc138\uc694.",
+      "\ube0c\ub79c\ub4dc \uc544\uc774\ub374\ud2f0\ud2f0 \ubcf4\ub4dc\uc640 Asset Pairing Guide\uae4c\uc9c0 \ub9cc\ub4e4\uc5b4\uc8fc\uc138\uc694."
+    ]
+  },
+  "name": "ai-brand-os-builder",
+  "version": "1.7.0",
+  "description": "SEAT19E brand strategy, identity board and execution-ready toolkit playbook builder with category-adaptive asset architecture.",
+  "author": {
+    "name": "Eugene Park / SEAT19E"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

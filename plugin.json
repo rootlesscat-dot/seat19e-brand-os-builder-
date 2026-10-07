@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ai-brand-os-builder",
+  "version": "1.7.0",
+  "description": "SEAT19E brand strategy, identity board and execution-ready toolkit playbook builder with category-adaptive asset architecture.",
+  "author": {"name": "Eugene Park / SEAT19E"},
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Brand Playbook Builder",
+        "shortDescription": "브랜드 전략을 실행 가능한 Toolkit Playbook으로",
+        "longDescription": "SEAT19E의 전략 질문을 한 번에 하나씩 진행해 브랜드 전략, 무드보드, 아이덴티티 보드를 만들고, 요청 시 Creative Concept, Strategic Direction, Asset System, Pairing Guide, Rollout/Timeline, Output Inventory까지 포함한 실행형 Toolkit Playbook과 PDF를 생성합니다. 제품/F&B, 서비스, 소프트웨어 등 산업군에 맞춰 자산 카테고리를 자동 조정하며, 제안과 검증된 정보를 명확히 구분합니다.",
+        "developerName": "SEAT19E",
+        "category": "Productivity",
+        "capabilities": ["Interactive"],
+        "defaultPrompt": [
+          "내 브랜드의 Brand OS를 만들고 싶어요. 첫 질문부터 하나씩 진행해주세요.",
+          "완성된 Brand Playbook을 실행 가능한 Toolkit Playbook 구조로 확장해주세요.",
+          "브랜드 아이덴티티 보드와 Asset Pairing Guide까지 만들어주세요."
+        ]
+      }
+    }
+  }
+}
